@@ -2,7 +2,7 @@
 # Do not use this in production. Sample purpose only.
 
 # Author: Upkar Lidder (IBM)
-
+## these changes are added by Ajitha
 # Input:
 # p, principal amount
 # t, time period in years
